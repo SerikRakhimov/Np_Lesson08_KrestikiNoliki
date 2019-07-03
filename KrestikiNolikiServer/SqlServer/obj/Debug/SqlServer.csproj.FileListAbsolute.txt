@@ -1,0 +1,7 @@
+c:\users\рахимовс\source\repos\SqlServer\SqlServer\bin\Debug\SqlServer.exe.config
+c:\users\рахимовс\source\repos\SqlServer\SqlServer\bin\Debug\SqlServer.exe
+c:\users\рахимовс\source\repos\SqlServer\SqlServer\bin\Debug\SqlServer.pdb
+c:\users\рахимовс\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.csprojAssemblyReference.cache
+c:\users\рахимовс\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.csproj.CoreCompileInputs.cache
+c:\users\рахимовс\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.exe
+c:\users\рахимовс\source\repos\SqlServer\SqlServer\obj\Debug\SqlServer.pdb

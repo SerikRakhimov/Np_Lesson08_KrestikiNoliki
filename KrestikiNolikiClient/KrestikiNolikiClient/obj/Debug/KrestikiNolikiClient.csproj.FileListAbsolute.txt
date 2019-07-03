@@ -1,0 +1,15 @@
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\App.g.cs
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\bin\Debug\KrestikiNolikiClient.exe.config
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\bin\Debug\KrestikiNolikiClient.exe
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\bin\Debug\KrestikiNolikiClient.pdb
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\MainWindow.baml
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient.g.resources
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient.exe
+C:\Users\РахимовС\source\repos\KrestikiNolikiClient\KrestikiNolikiClient\obj\Debug\KrestikiNolikiClient.pdb

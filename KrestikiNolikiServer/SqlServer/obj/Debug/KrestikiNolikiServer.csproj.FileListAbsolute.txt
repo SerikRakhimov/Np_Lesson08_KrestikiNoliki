@@ -1,0 +1,7 @@
+C:\Users\РахимовС\source\repos\KrestikiNolikiServer\SqlServer\obj\Debug\KrestikiNolikiServer.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\KrestikiNolikiServer\SqlServer\obj\Debug\KrestikiNolikiServer.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\KrestikiNolikiServer\SqlServer\obj\Debug\SqlServer.exe
+C:\Users\РахимовС\source\repos\KrestikiNolikiServer\SqlServer\obj\Debug\SqlServer.pdb
+C:\Users\РахимовС\source\repos\KrestikiNolikiServer\SqlServer\bin\Debug\SqlServer.exe.config
+C:\Users\РахимовС\source\repos\KrestikiNolikiServer\SqlServer\bin\Debug\SqlServer.exe
+C:\Users\РахимовС\source\repos\KrestikiNolikiServer\SqlServer\bin\Debug\SqlServer.pdb
